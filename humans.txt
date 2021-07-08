@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+Kanchan    <name>
 
 # TECHNOLOGY COLOPHON
 
